@@ -24,7 +24,7 @@
     <string name="page_info">Informações da página</string>
     <string name="page_info_view">Visualizar informações da página</string>
     <string name="page_info_address">Endereço:</string>
-    <string name="ssl_warnings_header">Há problemas com o certificado de segurança deste site.</string>
+    <string name="ssl_warnings_header">Existem problemas com o certificado de segurança deste site.</string>
     <string name="ssl_continue">Continuar</string>
     <string name="security_warning">Aviso de segurança</string>
     <string name="view_certificate">Visualizar certificado</string>
@@ -55,7 +55,7 @@
     <string name="add_to_other_folder_menu_option">Outra pasta</string>
     <string name="name">Nome</string>
     <string name="http">http://</string>
-    <string name="save_to_bookmarks">Adicionar favorito</string>
+    <string name="save_to_bookmarks">Adicionar aos favoritos</string>
     <string name="bookmark_this_page">Adicionar aos favoritos</string>
     <string name="remove">Eliminar</string>
     <string name="edit_bookmark">Editar favorito</string>
